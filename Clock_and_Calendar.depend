@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1492939158 source:e:\buet\level-1 term-1\cse-102\projects\offline-cb\clock_and_calendar\imain.cpp
+	"iGraphics.h"
+
+1492939445 e:\buet\level-1 term-1\cse-102\projects\offline-cb\clock_and_calendar\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
